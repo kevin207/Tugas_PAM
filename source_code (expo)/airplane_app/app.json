@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package":"app.pesawat",
+      "package":"com.kevin_207.airplane_app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
